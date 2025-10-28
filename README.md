@@ -1,5 +1,5 @@
 ## Hi there 👋
-🚀FullStack em Ação!
+🚀Full Stack em Ação!
 
 Aprendiz apaixonado mergulhando no universo do desenvolvimento web. Atualmente focado em dominar a tríade mágica: 
 <br>
